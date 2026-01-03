@@ -1,0 +1,24 @@
+feat:
+
+# ------------------------
+# Commit Message Format:
+# type(scope): subject
+#
+# type:
+#   feat     = feature
+#   fix      = bug fix
+#   chore    = tooling / config
+#   refactor = refactor code
+#   docs     = documentation
+#   test     = tests
+#   style    = formatting only
+#   ci       = CI/CD
+#
+# Examples:
+#   feat: add login page
+#   fix(auth): prevent token crash
+#
+# Rules:
+# - use lowercase
+# - add a space after :
+# - no dot at the end
