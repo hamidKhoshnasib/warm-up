@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button"
 
 export default function Home() {
   return (
-    <div className="flex h-full w-full items-center justify-center bg-green-500">
+    <div className="flex h-full w-full items-center justify-center">
       <Button>Check for updates</Button>
     </div>
   )
